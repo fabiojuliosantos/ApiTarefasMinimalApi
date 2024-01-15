@@ -22,5 +22,5 @@ Todos os recursos necessários ficam presentes na classe Program.cs como classes
 |/tarefas{id}|PUT|Atualiza a tarefa informada pelo id|
 |/tarefas{id}|DELETE|Exclui a tarefa informada pelo id|
 
-#### Observações:
+#### Observação:
 - Todos os dados são salvos em memória pelo Entity Framework, ou seja. A cada execução da aplicação, os dados precisam ser persistidos pelo método POST.
